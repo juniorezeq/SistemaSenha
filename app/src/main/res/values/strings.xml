@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SistemaSenha</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">senha</string>
+    <string name="login">login</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_activity_inicio">Inicio</string>
+</resources>
